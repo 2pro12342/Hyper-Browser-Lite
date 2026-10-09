@@ -6,13 +6,13 @@ This is a guide on how to set-up IWA's and install Hyper Browser Lite.
 
 ### Requirements (for Method 1)
 - IWA unblocked in ChromeOS settings
-- A good way to turn off internet manually (phone hotspot recommended)
-- Must be on v154 of chrome or above to install IWA's (works on v152 for some boards)
+- Must be on v154 of chrome or above to install IWA's 
 
 ### Requirements (for Method 2) 
 - Powerwashing unblocked (be able to powerwash)
+- A good way to turn off internet manually (phone hotspot recommended)
 - No force prolicies enrollment (if says "loading policies" after powerwash & enrolling, you cannot do this)
-- Must be on v154 of chrome or above to install IWA's (works on v152 for some boards)
+- Must be on v154 of chrome or above to install IWA's 
 
 ### Method 1 
 1. Open ChromeOS Settings, not the browser settings.
