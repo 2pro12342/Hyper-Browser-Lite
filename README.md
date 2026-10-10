@@ -9,4 +9,8 @@
 - Search Engine customization 
 - DevTools (page inspecting, Console, Network, Page source, etc.)
 - Theme customization
+- JS bookmarklets
+- bookmarks & bookmark bar
+- Page/Site AdBlocker
+- Page/Site MalBlocker (detect suspicious and dangerous sites)
 and more!
