@@ -1,5 +1,5 @@
-# NOTE 
-**I don't know if this is true, but**: This no longer works (it never did), apparently you need Google Chrome to make your IWA projects get verified and signed in order to get your IWA to install and work.
+# Hyper Browser Lite 
+An unblocked browser as an IWA that bypasses school blockers, admin extensions, and more. 
 
 ## Features: V1.0.0 - Testing
 - Multi-tab Management
