@@ -1,0 +1,51 @@
+update logs for hyper browser lite. 
+
+1. v0.0.1 - Beta Testing 
+
+Notes:
+- Release of an unblocked browser for ChromeOS IWA Dev Mode. 
+
+Features: 
+- unblocked URLs 
+- multi-tab management 
+- browser URLs 
+- customizable settings, but minimum 
+- fully working full screen
+- 2 themes (light/dark mode & +1 but not really is system theme) 
+- bookmarks, bookmark bar, bookmarklets, and bookmark manager browser URL 
+- see history with time & date that site opened 
+- credits (credits: beta testers, inspirations, owner/creator, and info)
+- DevTools (elements, console, network, and sources)
+- screen capture & screen record 
+- page features (zoom, print, reload, backward, and forward) 
+- spy mode (basically incognito mode) 
+and more. 
+
+Bugs: 
+- Fullscreen doesn't work for most sites that require full screen already like Youtube videos, game loaders/full screens, and pages that request full screen. 
+- keyboard buttons like the forward/backward arrows or reload/refresh buttons don't work on page or site. 
+- screen shots don't work at all and screen recordings don't save when clicked the cancel file save. 
+- on dark mode and when pages are loading, the page flashes white. 
+- DevTools doesn't work right; sources is the same as network, console logging doesn't work, and i can't adjust the side panel. 
+- spy mode is kind of buggy; new tab and the button doesn't work very well. 
+
+2. v0.0.2 - Beta Testing
+
+Notes: 
+- Fixed bugs from previous version and added new things to fit the hyper/cyber style. 
+
+Features: 
+- Fixed full screen issue; full screen should now work on every page that requests or requires full screen. 
+- Fixed dark mode issue; loading pages don't flash white any more if on dark mode. 
+- Fixed keyboard special keys issue; forward/backward arrows or reload/refresh buttons now work on pages/sites. 
+- Spy mode has a toggle in the browser to 1 tab only and can open spy mode in a new window like chrome incognito. 
+- DevTools is now fixed and better styled with working source map, see temporary console scripts and page files/folders, and more. 
+- Screen shots and screen recordings have a browser URL to save clips to, so now you can save, redo/retake, delete, or edit video settings. 
+- Screen shots are now fixed and recordings are fixed too; screen shots didn't work at all and screen recordings didn't capture most UI in the browser. 
+- Better UI; there is now new and improved UI for the browser including better screen capture & recordings instead of sharing screen, UI prompts, and more. 
+- New Cyber theme that fits the Hyper Browser Lite style; now the Welcome browser URL and the New Tab browser URL are animated. 
+- New theme customization; just like chrome, you can now have a cool customizable theme. 
+
+Bugs: 
+- Beta Testers reported none yet
+
