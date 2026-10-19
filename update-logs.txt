@@ -47,5 +47,35 @@ Features:
 - New theme customization; just like chrome, you can now have a cool customizable theme. 
 
 Bugs: 
-- Beta Testers reported none yet
+- URLs loading is slower. (request) 
+- unblocked adult content may be an issue. (request) 
 
+3. v0.0.5 - Beta Testing 
+
+Notes: 
+- Added requests from previous version 
+
+Features: 
+- Added AdBlocker built-in extension; blocks ads and youtube ads as well. 
+- Added MalBlocker built-in extension; blocks unsafe/dangerous sites, blocks dangerous downloads, and blocks dangerous content. 
+- Added DNS Modifier built-in extension; Add custom DNS to the browser's networking system. 
+- Faster URL loading; sites, urls, pages, and content load faster now instead of having the loading url page. 
+
+Bugs: 
+- Full-screen issue; tabs and url bar hides when exiting full-screen. 
+- Youtube AdBlocker issue; Youtube ads are appearing more often and the video buffers a little bit. 
+- URLs loading issue; URLs sometimes don't load as fast and URLs don't always load fully. 
+
+3. v0.0.8 - Beta Testing 
+
+Notes: 
+- Added new cool themes and fixed bugs. Hopefully the last bug fixing until the browser's release 
+
+Features: 
+- 3 new cool browser themes; Hacker (green & matrix effect), Alert (red & siren effect), and Nova (purple and space effect). 
+- Fixed Full-screen Issue; When exited full-screen, now shows browser's UI elements. 
+- Fixed Youtube AdBlocker Issue; Ad blocking on Youtube ads has now been fixed for not buffering videos. 
+- Fixed URLs Loading Issue; URLs & content fully load at a faster speed and URLs don't get stuck loading. 
+
+Bugs: 
+None Reported Yet. 
